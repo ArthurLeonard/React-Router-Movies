@@ -1,17 +1,14 @@
 {
-  "name": "movies",
+  "name": "MOVIES",
   "version": "1.0.0",
-  "description": "",
+  "description": "tuesday project",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LambdaSchool/SPA-Routing-React"
-  },
-  "author": "Lambda School",
-  "license": "ISC",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
   "bugs": {
     "url": "https://github.com/LambdaSchool/SPA-Routing-React/issues"
   },
@@ -20,5 +17,6 @@
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "express": "^4.16.2"
-  }
+  },
+  "private": true
 }
